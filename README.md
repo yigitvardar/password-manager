@@ -5,11 +5,9 @@ A PHP-based password management system developed for the graduation project at t
 ## 🔐 Features
 - User registration & login
 - Strong password validation
-- Password strength indicator
 - Encrypted storage (e.g., with `password_hash`, `openssl`)
 - Responsive UI (HTML/CSS/JS + Bootstrap)
 - Show/Hide password toggle
-- Profile page
 
 ## 🛠️ Technologies Used
 - PHP & MySQL
