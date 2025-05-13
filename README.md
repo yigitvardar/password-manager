@@ -1,2 +1,30 @@
-# password-manager
-A simple and secure password management system developed as a graduation project in the Information Security Technology program. Features include strong password validation, encryption, user login system, and responsive design. This project replaces a thesis.
+# Password Manager
+
+A PHP-based password management system developed for the graduation project at the Information Security Technology program. This project replaces a traditional thesis.
+
+## 🔐 Features
+- User registration & login
+- Strong password validation
+- Password strength indicator
+- Encrypted storage (e.g., with `password_hash`, `openssl`)
+- Responsive UI (HTML/CSS/JS + Bootstrap)
+- Show/Hide password toggle
+- Profile page
+
+## 🛠️ Technologies Used
+- PHP & MySQL
+- HTML, CSS, JavaScript
+- Bootstrap 5
+- jQuery
+- Font Awesome
+
+## 📁 Project Structure
+```bash
+/
+├── logout.php
+├── register.php
+├── login.php
+├── dashboard.php
+├── db_connect.php
+├── /css
+├── schema.sql
